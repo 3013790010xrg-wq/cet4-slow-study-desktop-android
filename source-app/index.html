@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>四级慢慢学 · 从基础到考场</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="data.js" defer></script>
+  <script src="extra-data.js" defer></script>
+  <script src="mock-data.js" defer></script>
+  <script src="grader.js" defer></script>
+  <script src="mock.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <a class="brand" href="index.html" aria-label="四级慢慢学首页"><span class="brand-mark">四</span><span>四级慢慢学<small>CET-4 STARTER</small></span></a>
+      <p class="side-label">学习</p>
+      <nav aria-label="主导航">
+        <button data-nav="home" class="active"><span>⌂</span> 今天</button>
+        <button data-nav="vocab"><span>▤</span> 单词</button>
+        <button data-nav="practice"><span>✎</span> 小题练习</button>
+        <button data-nav="reading"><span>▣</span> 阅读</button>
+        <button data-nav="listening"><span>◖</span> 听力</button>
+        <button data-nav="writing"><span>✍</span> 写作与翻译</button>
+      </nav>
+      <p class="side-label second">备考</p>
+      <nav aria-label="备考导航">
+        <button data-nav="papers"><span>▧</span> 历年试卷</button>
+        <button data-nav="mock"><span>☑</span> 2026 模拟卷</button>
+        <button data-nav="plan"><span>◷</span> 冲刺计划</button>
+      </nav>
+      <div class="side-note">每天一点点，<br>比一次学很多更有效。<small>进度只保存在这台设备的浏览器里</small></div>
+    </aside>
+    <div class="content-wrap">
+      <header class="topbar"><div><span class="eyebrow">YOUR DAILY ENGLISH COMPANION</span></div><span class="top-date">目标：2026 下半年四级笔试</span></header>
+      <main id="main" tabindex="-1"></main>
+      <footer>依据 2022—2026 年试卷主题设计原创入门练习 · 试卷来源及说明见「历年试卷」</footer>
+    </div>
+  </div>
+</body>
+</html>

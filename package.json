@@ -1,0 +1,19 @@
+{
+  "name": "cet4-slow-study-mobile",
+  "version": "1.1.0",
+  "private": true,
+  "description": "四级慢慢学电脑版与安卓工程源码",
+  "scripts": {
+    "prepare:web": "node scripts/prepare-web.cjs",
+    "sync": "npm run prepare:web && cap sync android",
+    "android:debug": "npm run sync && cd android && gradlew.bat assembleDebug"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.0.0",
+    "@capacitor/core": "^8.0.0",
+    "pdfjs-dist": "^5.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.0.0"
+  }
+}

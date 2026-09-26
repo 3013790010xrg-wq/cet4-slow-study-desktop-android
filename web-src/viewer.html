@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#153e32">
+  <title>试卷阅读 · 四级慢慢学</title>
+  <link rel="stylesheet" href="viewer.css">
+</head>
+<body>
+  <header><a href="index.html" id="back">← 返回学习</a><strong id="title">试卷阅读</strong></header>
+  <main>
+    <p id="status" role="status">正在打开资料…</p>
+    <div id="audioBox" hidden><audio id="audio" controls preload="metadata"></audio></div>
+    <div id="pdfBox" hidden>
+      <div class="toolbar">
+        <button id="prev" aria-label="上一页">上一页</button>
+        <span id="pageInfo">1 / 1</span>
+        <button id="next" aria-label="下一页">下一页</button>
+        <button id="smaller" aria-label="缩小">−</button>
+        <button id="larger" aria-label="放大">＋</button>
+      </div>
+      <div class="canvas-wrap"><canvas id="paper"></canvas></div>
+    </div>
+  </main>
+  <script type="module" src="viewer.js"></script>
+</body>
+</html>

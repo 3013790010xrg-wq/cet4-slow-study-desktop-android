@@ -1,0 +1,7 @@
+{
+  "appId": "cn.cet4.slowstudy",
+  "appName": "四级慢慢学",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "plugins": {}
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "file": "cet4-2026-06-set-01.pdf",
+    "kind": "paper",
+    "sourcePage": "https://english-exam.lazynote.cn/cet4/paper/2026-06-1/",
+    "url": "https://downloads.lazynote.cn/cet4/2026-06-1/%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A72026%E5%B9%B46%E6%9C%88%E7%AC%AC1%E5%A5%97%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+    "bytes": 346429,
+    "pages": 11,
+    "extractedChars": 25808,
+    "sha256": "40248fe3d0e70a14b3dda7a610cfdc5e1cd108644b33474787579ceec7877a05"
+  },
+  {
+    "file": "cet4-2026-06-set-01-answers.pdf",
+    "kind": "answers",
+    "sourcePage": "https://english-exam.lazynote.cn/cet4/paper/2026-06-1/",
+    "url": "https://downloads.lazynote.cn/cet4/2026-06-1/%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A72026%E5%B9%B46%E6%9C%88%E7%AC%AC1%E5%A5%97%E7%9C%9F%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+    "bytes": 7309291,
+    "pages": 119,
+    "extractedChars": 177985,
+    "sha256": "b3ed959b7b35311ce74765d1fc9c633204e1f1fd2561de8828bafdd607b4391f"
+  },
+  {
+    "file": "cet4-2026-06-set-02.pdf",
+    "kind": "paper",
+    "sourcePage": "https://english-exam.lazynote.cn/cet4/paper/2026-06-2/",
+    "url": "https://downloads.lazynote.cn/cet4/2026-06-2/%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A72026%E5%B9%B46%E6%9C%88%E7%AC%AC2%E5%A5%97%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+    "bytes": 363119,
+    "pages": 11,
+    "extractedChars": 25080,
+    "sha256": "6bfea873edee3bafb054088109f6e3a323c27577a4b1aabcdfc5918744ab8f02"
+  },
+  {
+    "file": "cet4-2026-06-set-02-answers.pdf",
+    "kind": "answers",
+    "sourcePage": "https://english-exam.lazynote.cn/cet4/paper/2026-06-2/",
+    "url": "https://downloads.lazynote.cn/cet4/2026-06-2/%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A72026%E5%B9%B46%E6%9C%88%E7%AC%AC2%E5%A5%97%E7%9C%9F%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+    "bytes": 7299477,
+    "pages": 120,
+    "extractedChars": 178272,
+    "sha256": "9fad4f9c9064db0a736d447ac5a78273cbc8d461a20829fd42a06cf21d115f8a"
+  },
+  {
+    "file": "cet4-2026-06-set-03.pdf",
+    "kind": "paper",
+    "sourcePage": "https://english-exam.lazynote.cn/cet4/paper/2026-06-3/",
+    "url": "https://downloads.lazynote.cn/cet4/2026-06-3/%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A72026%E5%B9%B46%E6%9C%88%E7%AC%AC3%E5%A5%97%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+    "bytes": 257972,
+    "pages": 7,
+    "extractedChars": 19052,
+    "sha256": "3ed1c72255263bc8c8e9f94e2f2e24c9140ec9cfc5d2dd76ccabf8a460e505b1"
+  },
+  {
+    "file": "cet4-2026-06-set-03-answers.pdf",
+    "kind": "answers",
+    "sourcePage": "https://english-exam.lazynote.cn/cet4/paper/2026-06-3/",
+    "url": "https://downloads.lazynote.cn/cet4/2026-06-3/%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A72026%E5%B9%B46%E6%9C%88%E7%AC%AC3%E5%A5%97%E7%9C%9F%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+    "bytes": 5678829,
+    "pages": 70,
+    "extractedChars": 107727,
+    "sha256": "384996dda280403b55a14e88c96e4122ebb2741d834a22194b5637d5caa95879"
+  }
+]

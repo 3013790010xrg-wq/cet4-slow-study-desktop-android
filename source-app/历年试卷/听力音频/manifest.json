@@ -1,0 +1,58 @@
+[
+  {
+    "file": "cet4-2022-06-set-01.mp3",
+    "url": "https://catteacher0515.github.io/cet4-download/audio/2022/06/cet4-2022-06-set-01.mp3",
+    "bytes": 13740713,
+    "sha256": "9a3bed52c8b2c2704d653a09c86d0a22a7dc60af8de6676d4437297a97c3bfea",
+    "status": "ok"
+  },
+  {
+    "file": "cet4-2022-12-set-01.mp3",
+    "url": "https://catteacher0515.github.io/cet4-download/audio/2022/12/cet4-2022-12-set-01.mp3",
+    "bytes": 12826664,
+    "sha256": "fecab1df76f8f2e529158840c5a46b8c51ea9d51991fc7251ed4494fe7b911e0",
+    "status": "ok"
+  },
+  {
+    "file": "cet4-2023-06-set-01.mp3",
+    "url": "https://catteacher0515.github.io/cet4-download/audio/2023/06/cet4-2023-06-set-01.mp3",
+    "bytes": 11687803,
+    "sha256": "7ec2ad1bbaba31ba5d21f34f655b99414648b80c992ef44e65c2bda273063506",
+    "status": "ok"
+  },
+  {
+    "file": "cet4-2023-12-set-01.mp3",
+    "url": "https://catteacher0515.github.io/cet4-download/audio/2023/12/cet4-2023-12-set-01.mp3",
+    "bytes": 10327815,
+    "sha256": "89cd16b091d880cfba99c6e15806b302cffbdd8b969b6cb93e0c9e32c52a9a02",
+    "status": "ok"
+  },
+  {
+    "file": "cet4-2024-06-set-01.mp3",
+    "url": "https://catteacher0515.github.io/cet4-download/audio/2024/06/cet4-2024-06-set-01.mp3",
+    "bytes": 16559456,
+    "sha256": "723e4b82980dd9bb0f1b852a981ccd32451e53ff68b232657e69f44593244a09",
+    "status": "ok"
+  },
+  {
+    "file": "cet4-2024-12-set-01.mp3",
+    "url": "https://catteacher0515.github.io/cet4-download/audio/2024/12/cet4-2024-12-set-01.mp3",
+    "bytes": 12136232,
+    "sha256": "8dc74ab3bc8c1f38b0a5d04e8bdaf6893c5114cf921474fda73caae431d2bf63",
+    "status": "ok"
+  },
+  {
+    "file": "cet4-2025-06-set-01.mp3",
+    "url": "https://catteacher0515.github.io/cet4-download/audio/2025/06/cet4-2025-06-set-01.mp3",
+    "bytes": 15003506,
+    "sha256": "1f0ff11236278d59f8e662bdcbdb640c0949650a715818ee2364432936967e65",
+    "status": "ok"
+  },
+  {
+    "file": "cet4-2025-12-set-01.mp3",
+    "url": "https://catteacher0515.github.io/cet4-download/audio/2025/12/cet4-2025-12-set-01.mp3",
+    "bytes": 13478107,
+    "sha256": "adf2bfd685e195ff9d798366c687554c56a732b17d8d2015a31ca96a16f9efc4",
+    "status": "ok"
+  }
+]

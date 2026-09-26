@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">四级慢慢学</string>
+    <string name="title_activity_main">四级慢慢学</string>
+    <string name="package_name">cn.cet4.slowstudy</string>
+    <string name="custom_url_scheme">cn.cet4.slowstudy</string>
+</resources>
